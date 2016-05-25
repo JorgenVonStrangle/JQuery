@@ -1,0 +1,13 @@
+.elem1 {
+    background-color: peru;
+    font-size: 3rem;
+    color: black;
+    border-radius: 30px;
+}
+
+.elem2 {
+    background-color: green;
+    font-size: 5rem;
+    color: white;
+    border-radius: 0;
+}
